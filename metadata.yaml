@@ -1,11 +1,16 @@
 _repo: Walda-A-Novel_63629
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63629-h/images/cover.jpg
 creator:
   author:
     agent_name: Kinkaid, Mary Holland
     gutenberg_agent_id: '52528'
     url: http://www.gutenberg.org/2009/agents/52528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63629#Walda-A-Novel
 gutenberg_issued: '2020-11-04'
 gutenberg_type: Text
 identifiers:
